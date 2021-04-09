@@ -1,1 +1,2 @@
 This repository is for current projects and homework for PGM
+Please refer to Links file for several examples on Colab, there are several missing but I have to traslate them to readable notebook.
